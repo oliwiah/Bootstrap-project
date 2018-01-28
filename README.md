@@ -1,2 +1,3 @@
-# Bootstrap-project
-This project has been created to improve my Bootstrap skills.
+**Bootstrap project**
+
+This project has been created to practice my Bootstrap skills.
